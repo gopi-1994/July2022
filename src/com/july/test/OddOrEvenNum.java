@@ -12,7 +12,7 @@ public class OddOrEvenNum {
 		} else {
 			System.out.println("It is an odd number");
 		}
-		
+	System.out.println("bye!");	
 	}
 	
 }
